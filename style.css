@@ -1,0 +1,42 @@
+p,a,td,h,form,body {
+font-family:verdana, arial, tahoma;
+font-size: 95%
+}
+
+.center {
+text-align: center;
+}
+
+.header {
+background-color: lightgrey;
+}
+
+.productfeatures {
+vertical-align: top;
+width: 300px;
+}
+
+.cart {
+vertical-align: top;
+}
+
+.title {
+font-weight: bold;
+}
+
+a:visited {
+	color:blue;
+}
+
+a:active {
+	color:red;
+}
+
+.items {
+font-size: 85%;
+border: 1px;
+background-color: white;
+border-style: solid;
+border-color: black;
+color: blue;
+}

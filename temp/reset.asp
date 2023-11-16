@@ -1,0 +1,6 @@
+<%
+
+	Session.Abandon
+
+%>
+</html>
